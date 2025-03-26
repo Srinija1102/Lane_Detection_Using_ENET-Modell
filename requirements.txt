@@ -1,0 +1,12 @@
+# requirements
+# Usage: pip install -r requirements.txt
+
+# Base ------------------------------------------------------------------------
+tqdm
+pytorch
+matplotlib
+opencv-python>=4.1.1
+numpy>=1.18.5
+scikit-learn
+pybase64
+IPython
